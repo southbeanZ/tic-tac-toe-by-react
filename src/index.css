@@ -36,7 +36,7 @@ ol, ul {
   outline: none;
 }
 
-.square.is-win {
+.is_win {
   background-color: #f00;
 }
 
